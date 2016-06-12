@@ -1,0 +1,4 @@
+/.idea/
+/target/
+MongoDb-Spark-Integration.iml
+/mongodb-spark.iml
